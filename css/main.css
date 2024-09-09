@@ -37,6 +37,7 @@
     height: 10px;
     left: 0px;
   }
+
   .introducao h1::before {
     background: linear-gradient(#b7f829, #67dd0a);
   }
